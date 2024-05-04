@@ -1,0 +1,12 @@
+{
+  "name": "arca-git-2024",
+  "version": "1.0.0",
+  "description": "This is a repo for my git class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
