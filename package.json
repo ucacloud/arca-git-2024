@@ -1,7 +1,7 @@
 {
   "name": "arca-git-2024",
   "version": "1.0.0",
-  "description": "This is a repo for my git class. I have added a new feature.",
+  "description": "This is a repo for my git class. I have added a new feature. There was also a second new feature added.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
